@@ -1,0 +1,25 @@
+body {
+    background-color: #F7DBF0;
+}
+
+hr {
+    color: #F9F9F9;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 2%;
+    border-width: 5px;
+}
+
+img {
+    height: 250px
+}
+
+h1 {
+    color: #937DC2
+    font-family: 'Alegreye sans SC'
+}
+
+h3 {
+    color: #937DC2
+}
